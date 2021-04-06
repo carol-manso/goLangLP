@@ -1,0 +1,340 @@
+Search (0) - ../../../search/howsearchworks/
+How Search works (0) - ../../../search/howsearchworks/
+Overview (0) - ../../../search/howsearchworks/
+Organizing information (0) - ../../../search/howsearchworks/crawling-indexing/
+Search algorithms (0) - ../../../search/howsearchworks/algorithms/
+Useful responses (0) - ../../../search/howsearchworks/responses/
+Our mission (0) - ../../../search/howsearchworks/mission/
+Overview (0) - ../../../search/howsearchworks/mission/
+Rigorous testing (0) - ../../../search/howsearchworks/mission/users/
+Help creators (0) - ../../../search/howsearchworks/mission/creators/
+Maximize access (0) - ../../../search/howsearchworks/mission/open-web/
+How Search works (0) - ../../../search/howsearchworks/
+Overview (0) - ../../../search/howsearchworks/
+Organizing information (0) - ../../../search/howsearchworks/crawling-indexing/
+Search algorithms (0) - ../../../search/howsearchworks/algorithms/
+Useful responses (0) - ../../../search/howsearchworks/responses/
+Our mission (0) - ../../../search/howsearchworks/mission/
+Overview (0) - ../../../search/howsearchworks/mission/
+Rigorous testing (0) - ../../../search/howsearchworks/mission/users/
+Help creators (0) - ../../../search/howsearchworks/mission/creators/
+Maximize access (0) - ../../../search/howsearchworks/mission/open-web/
+sitemaps (0) - https://support.google.com/webmasters/answer/156184?hl=en
+	Google
+    
+  Search Central (1) - https://developers.google.com/search
+	Documentation (1) - https://developers.google.com/search/docs
+	Quickstart (1) - https://developers.google.com/search/docs/basics/get-started
+	Get on Google (1) - https://developers.google.com/search/docs/basics/get-on-google
+	Optimize your site for search engines (1) - https://developers.google.com/search/docs/basics/optimize-your-site
+	Measuring your performance on Google (1) - https://developers.google.com/search/docs/basics/measure-performance-on-google
+	Get started (1) - https://developers.google.com/search/docs/beginner/get-started
+	SEO starter guide (1) - https://developers.google.com/search/docs/beginner/seo-starter-guide
+	Do you need an SEO? (1) - https://developers.google.com/search/docs/beginner/do-i-need-seo
+	Beginners guide to Search Console (1) - https://developers.google.com/search/docs/beginner/search-console
+	Get started (1) - https://developers.google.com/search/docs/advanced/guidelines/get-started
+	Guidelines (1) - https://developers.google.com/search/docs/advanced/guidelines/overview
+	Control crawling and indexing (1) - https://developers.google.com/search/docs/advanced/crawling/overview
+	Change your Search appearance (1) - https://developers.google.com/search/docs/advanced/appearance/overview
+	Optimize page experience (1) - https://developers.google.com/search/docs/guides/page-experience
+	Support (1) - https://developers.google.com/search/help
+	Blog (1) - https://developers.google.com/search/blog
+	What's new (1) - https://developers.google.com/search/news
+	Events (1) - https://developers.google.com/search/events
+	Case studies (1) - https://developers.google.com/search/case-studies/overview
+	Documentation (1) - https://developers.google.com/search/docs
+	Go to Search Console (1) - https://goo.gle/searchconsole
+	Introduction (1) - https://developers.google.com/search/docs
+	Just the basics (1) - https://developers.google.com/search/docs/basics/get-started
+	Beginner SEO (1) - https://developers.google.com/search/docs/beginner/get-started
+	Advanced SEO (1) - https://developers.google.com/search/docs/advanced/guidelines/get-started
+	Google
+    
+  Search Central (1) - https://developers.google.com/search
+	Documentation (1) - /search/docs
+	Introduction (1) - /search/docs
+	Just the basics (1) - /search/docs/basics/get-started
+	Beginner SEO (1) - /search/docs/beginner/get-started
+	Advanced SEO (1) - /search/docs/advanced/guidelines/get-started
+	Support (1) - /search/help
+	Blog (1) - /search/blog
+	What's new (1) - /search/news
+	Events (1) - /search/events
+	Case studies (1) - /search/case-studies/overview
+	Get started (1) - /search/docs/advanced/guidelines/get-started
+	Developer's guide to Search (1) - /search/docs/guides/get-started
+	Advanced guide to Search Console (1) - /search/docs/advanced/guidelines/search-console
+	Overview of guidelines (1) - /search/docs/advanced/guidelines/overview
+	Webmaster guidelines (1) - /search/docs/advanced/guidelines/webmaster-guidelines
+	Keep a simple URL structure (1) - /search/docs/advanced/guidelines/url-structure
+	Qualify your outbound links to Google (1) - /search/docs/advanced/guidelines/qualify-outbound-links
+	Tag site for child-directed treatment (1) - /search/docs/advanced/guidelines/tag-child-directed-treatment
+	Browser compatibility (1) - /search/docs/advanced/guidelines/browser-compatibility
+	Avoid creating duplicate content (1) - /search/docs/advanced/guidelines/duplicate-content
+	Make your links crawlable (1) - /search/docs/advanced/guidelines/links-crawlable
+	Make sure Googlebot is not blocked (1) - /search/docs/advanced/guidelines/dont-block-googlebot
+	Best practices for website testing with Google Search (1) - /search/docs/advanced/guidelines/website-testing
+	Google Images best practices (1) - /search/docs/advanced/guidelines/google-images
+	Video best practices (1) - /search/docs/advanced/guidelines/video
+	Rich media file best practices (1) - /search/docs/advanced/guidelines/rich-media-files
+	Best practices for bloggers (1) - /search/docs/advanced/guidelines/bloggers
+	Free web hosters (1) - /search/docs/advanced/guidelines/free-web-hosters
+	AMP on Google Search guidelines (1) - /search/docs/advanced/guidelines/amp
+	For all sites (1) - /search/docs/advanced/guidelines/covid-19-resources
+	For education sites (1) - /search/docs/advanced/guidelines/education-tips
+	For health and government sites (1) - /search/docs/advanced/guidelines/health-government-websites
+	Automatically generated content (1) - /search/docs/advanced/guidelines/auto-gen-content
+	Sneaky redirects (1) - /search/docs/advanced/guidelines/sneaky-redirects
+	Link schemes (1) - /search/docs/advanced/guidelines/link-schemes
+	Paid links (1) - /search/docs/advanced/guidelines/paid-links
+	Cloaking (1) - /search/docs/advanced/guidelines/cloaking
+	Hidden text and links (1) - /search/docs/advanced/guidelines/hidden-text-links
+	Doorway pages (1) - /search/docs/advanced/guidelines/doorway-pages
+	Scraped content (1) - /search/docs/advanced/guidelines/scraped-content
+	Affiliate programs (1) - /search/docs/advanced/guidelines/affiliate-programs
+	Irrelevant keywords (1) - /search/docs/advanced/guidelines/irrelevant-keywords
+	Creating pages with malicious behavior (1) - /search/docs/advanced/guidelines/malicious-behavior
+	Automated queries (1) - /search/docs/advanced/guidelines/automated-queries
+	User-generated spam (1) - /search/docs/advanced/guidelines/user-gen-spam
+	Ways to prevent comment spam (1) - /search/docs/advanced/guidelines/prevent-comment-spam
+	Report spam, paid links, or malware (1) - /search/docs/advanced/guidelines/report-spam
+	Overview of crawling and indexing topics (1) - /search/docs/advanced/crawling/overview
+	Introduction to indexing (1) - /search/docs/guides/intro-indexing
+	Create a list of URLs (1) - /search/docs/guides/create-URLs
+	Submit URLs to Google (1) - /search/docs/guides/submit-URLs
+	Learn about sitemaps (1) - /search/docs/advanced/sitemaps/overview
+	Build and submit a sitemap (1) - /search/docs/advanced/sitemaps/build-sitemap
+	Split up your large sitemaps (1) - /search/docs/advanced/sitemaps/large-sitemaps
+	Video sitemaps and alternatives (1) - /search/docs/advanced/sitemaps/video-sitemaps
+	Image sitemaps (1) - /search/docs/advanced/sitemaps/image-sitemaps
+	Google News sitemaps (1) - /search/docs/advanced/sitemaps/news-sitemap
+	Overview (1) - /search/docs/advanced/crawling/block-access-overview
+	Control what you share with Google (1) - /search/docs/advanced/crawling/control-what-you-share
+	Block search indexing with noindex (1) - /search/docs/advanced/crawling/block-indexing
+	Introduction to robots.txt (1) - /search/docs/advanced/robots/intro
+	Create a robots.txt file (1) - /search/docs/advanced/robots/create-robots-txt
+	Submit your updated robots.txt to Google (1) - /search/docs/advanced/robots/submit-updated-robots-txt
+	Robots FAQs (1) - /search/docs/advanced/robots/robots-faq
+	Robots.txt Specifications (1) - /search/docs/advanced/robots/robots_txt
+	Prevent images on your page from appearing in search results (1) - /search/docs/advanced/crawling/prevent-images-on-your-page
+	Keep redacted information out of Search (1) - /search/docs/advanced/crawling/keep-redacted-information-out
+	Remove information from Google (1) - /search/docs/advanced/crawling/remove-information
+	Pause your business online (1) - /search/docs/guides/pause-online-business
+	Consolidate duplicate URLs (1) - /search/docs/advanced/crawling/consolidate-duplicate-urls
+	Create custom 404 pages (1) - /search/docs/advanced/crawling/custom-404-pages
+	Soft 404 errors (1) - /search/docs/advanced/crawling/soft-404-errors
+	Change page URLs with 301 redirects (1) - /search/docs/advanced/crawling/301-redirects
+	What is a site move? (1) - /search/docs/advanced/crawling/what-is-site-move
+	Move a site without URL changes (1) - /search/docs/advanced/crawling/site-move-no-url-changes
+	Move a site with URL changes (1) - /search/docs/advanced/crawling/site-move-with-url-changes
+	Overview (1) - /search/docs/advanced/crawling/international-overview
+	Managing multi-regional and multilingual sites (1) - /search/docs/advanced/crawling/managing-multi-regional-sites
+	Tell Google about localized versions of your page (1) - /search/docs/advanced/crawling/localized-versions
+	How Google crawls locale-adaptive pages (1) - /search/docs/advanced/crawling/locale-adaptive-pages
+	Special tags that Google understands (1) - /search/docs/advanced/crawling/special-tags
+	Robots meta tag, data-nosnippet, and X-Robots-Tag specifications (1) - /search/docs/advanced/robots/robots_meta_tag
+	Ask Google to recrawl your URLs (1) - /search/docs/advanced/crawling/ask-google-to-recrawl
+	Reduce the Googlebot crawl rate (1) - /search/docs/guides/reduce-crawl-rate
+	Verifying Googlebot (1) - /search/docs/advanced/crawling/verifying-googlebot
+	Large site owner's guide to managing your crawl budget (1) - /search/docs/advanced/crawling/large-site-managing-crawl-budget
+	Overview (1) - /search/docs/advanced/crawling/overview-google-crawlers
+	Googlebot (1) - /search/docs/advanced/crawling/googlebot
+	Google Read Aloud user agent (1) - /search/docs/advanced/crawling/read-aloud-user-agent
+	APIs-Google user agent (1) - /search/docs/advanced/crawling/apis-user-agent
+	Feedfetcher (1) - /search/docs/advanced/crawling/feedfetcher
+	Duplex on the web user agent (1) - /search/docs/advanced/crawling/duplex-user-agent
+	Fix lazy-loaded content (1) - /search/docs/guides/lazy-loading
+	Implement dynamic rendering (1) - /search/docs/guides/dynamic-rendering
+	Overview of Search appearance topics (1) - /search/docs/advanced/appearance/overview
+	Create good titles and snippets in Search Results (1) - /search/docs/advanced/appearance/good-titles-snippets
+	Enable Search result features for your site (1) - /search/docs/advanced/appearance/search-result-features
+	Featured snippets and your website (1) - /search/docs/advanced/appearance/featured-snippets
+	Provide a publication date to Google Search (1) - /search/docs/advanced/appearance/publication-dates
+	Define a favicon to show in search results (1) - /search/docs/advanced/appearance/favicon-in-search
+	Explore the search gallery (1) - /search/docs/guides/search-gallery
+	Understand how structured data works (1) - /search/docs/guides/intro-structured-data
+	Build, test, and release your structured data (1) - /search/docs/guides/prototype
+	Try the structured data codelab (1) - https://codelabs.developers.google.com/codelabs/structured-data/index.html
+	Structured data general guidelines (1) - /search/docs/guides/sd-policies
+	Article (1) - /search/docs/data-types/article
+	Book (1) - /search/docs/data-types/book
+	Breadcrumb (1) - /search/docs/data-types/breadcrumb
+	Carousel (1) - /search/docs/data-types/carousel
+	Course (1) - /search/docs/data-types/course
+	COVID-19 announcements (1) - /search/docs/data-types/special-announcements
+	Critic review (1) - /search/docs/data-types/critic-review
+	Dataset (1) - /search/docs/data-types/dataset
+	Employer Aggregate Rating (1) - /search/docs/data-types/employer-rating
+	Estimated salary (1) - /search/docs/data-types/estimated-salary
+	Event (1) - /search/docs/data-types/event
+	Fact Check (1) - /search/docs/data-types/factcheck
+	FAQ (1) - /search/docs/data-types/faqpage
+	Home Activities (1) - /search/docs/data-types/home-activities
+	How-to (1) - /search/docs/data-types/how-to
+	Image License (1) - /search/docs/data-types/image-license-metadata
+	Job Posting (1) - /search/docs/data-types/job-posting
+	Job Training (1) - /search/docs/data-types/job-training
+	Local Business (1) - /search/docs/data-types/local-business
+	Logo (1) - /search/docs/data-types/logo
+	Math solvers (1) - /search/docs/advanced/structured-data/math-solvers
+	Movie (1) - /search/docs/data-types/movie
+	Practice problems (1) - /search/docs/advanced/structured-data/practice-problems
+	Product (1) - /search/docs/data-types/product
+	Q&A (1) - /search/docs/data-types/qapage
+	Recipe (1) - /search/docs/data-types/recipe
+	Review snippet (1) - /search/docs/data-types/review-snippet
+	Sitelinks search box (1) - /search/docs/data-types/sitelinks-searchbox
+	Software App (1) - /search/docs/data-types/software-app
+	Speakable (1) - /search/docs/data-types/speakable
+	Subscription and paywalled content (1) - /search/docs/data-types/paywalled-content
+	Video (1) - /search/docs/data-types/video
+	Enriched search results (1) - /search/docs/advanced/appearance/enriched-search-results
+	Flexible Sampling general guidance (1) - /search/docs/advanced/appearance/flexible-sampling
+	Enable Top Places List (1) - /search/docs/advanced/appearance/top-places-list
+	Opt out of display in local search results and other Google properties (1) - https://support.google.com/webmasters/answer/3035947
+	Use Image Rights Metadata in Google Images (1) - /search/docs/advanced/appearance/image-rights-metadata
+	Enable Web Stories on Google (1) - /search/docs/advanced/appearance/enable-web-stories
+	Best practices for creating Web Stories (1) - /search/docs/advanced/appearance/web-stories-creation-best-practices
+	Web Story content policy (1) - /search/docs/advanced/appearance/web-stories-content-policy
+	Package tracking (1) - /search/docs/guides/package-tracking
+	Mobile recharge (1) - /search/docs/guides/mobile-recharge
+	Understanding page experience (1) - /search/docs/guides/page-experience
+	Overview of mobile topics (1) - /search/docs/advanced/mobile/overview
+	Overview (1) - /search/mobile-sites
+	Getting started (1) - /search/mobile-sites/get-started
+	Mobile-first indexing best practices (1) - /search/mobile-sites/mobile-first-indexing
+	Overview (1) - /search/mobile-sites/mobile-seo
+	Responsive Web Design (1) - /search/mobile-sites/mobile-seo/responsive-design
+	Dynamic Serving (1) - /search/mobile-sites/mobile-seo/dynamic-serving
+	Separate URLs (1) - /search/mobile-sites/mobile-seo/separate-urls
+	Tablets and Feature phones (1) - /search/mobile-sites/mobile-seo/other-devices
+	Avoid common mistakes when designing for mobile (1) - /search/mobile-sites/mobile-seo/common-mistakes
+	Customize your website software to be mobile-friendly (1) - /search/mobile-sites/website-software
+	Resources for developing mobile-friendly pages (1) - /search/docs/advanced/mobile/resources-mobile-friendly
+	Mobile FAQs (1) - /search/mobile-sites/faq
+	Announce mobile billing charges clearly (1) - /search/docs/advanced/mobile/mobile-billing-charges
+	Mobile viewing on feature phones (1) - /search/docs/advanced/mobile/feature-phones
+	Web Light: Faster and lighter pages from Search (1) - /search/docs/advanced/mobile/web-light
+	Ad network support for Web Light pages in Google Search (1) - /search/docs/advanced/mobile/web-light-ad-network
+	Google Discover and your website (1) - /search/docs/advanced/mobile/google-discover
+	Overview of security topics (1) - /search/docs/advanced/security/overview
+	Secure your site with HTTPS (1) - /search/docs/advanced/security/https
+	What is hacking or hacked content? (1) - /search/docs/advanced/security/what-is-hacked
+	Malware and unwanted software (1) - /search/docs/advanced/security/malware
+	Preventing malware infection (1) - /search/docs/advanced/security/prevent-malware
+	Social Engineering (Phishing and Deceptive Sites) (1) - /search/docs/advanced/security/social-engineering
+	Google Safe Browsing Repeat Offenders Policy (1) - /search/docs/advanced/security/safe-browsing-repeat-offenders
+	Understand how AMP looks in search results (1) - /search/docs/guides/about-amp
+	Enhance AMP content (1) - /search/docs/guides/enhance-amp
+	Validate AMP content (1) - /search/docs/guides/validate-amp
+	Remove AMP content (1) - /search/docs/guides/remove-amp
+	Site Verification API (1) - /site-verification
+	Search Console API (1) - /webmaster-tools/search-console-api-original
+	URL Testing Tools API (1) - /webmaster-tools/search-console-api
+	Indexing API (1) - /search/apis/indexing-api/v3/quickstart
+	Quickstart (1) - /search/docs/basics/get-started
+	Get on Google (1) - /search/docs/basics/get-on-google
+	Optimize your site for search engines (1) - /search/docs/basics/optimize-your-site
+	Measuring your performance on Google (1) - /search/docs/basics/measure-performance-on-google
+	Get started (1) - /search/docs/beginner/get-started
+	SEO starter guide (1) - /search/docs/beginner/seo-starter-guide
+	Do you need an SEO? (1) - /search/docs/beginner/do-i-need-seo
+	Beginners guide to Search Console (1) - /search/docs/beginner/search-console
+	Get started (1) - /search/docs/advanced/guidelines/get-started
+	Guidelines (1) - /search/docs/advanced/guidelines/overview
+	Control crawling and indexing (1) - /search/docs/advanced/crawling/overview
+	Change your Search appearance (1) - /search/docs/advanced/appearance/overview
+	Optimize page experience (1) - /search/docs/guides/page-experience
+	Home (1) - https://developers.google.com/
+	Search Central (1) - https://developers.google.com/search
+	Documentation (1) - https://developers.google.com/search/docs
+	Advanced SEO (1) - https://developers.google.com/search/docs/advanced/guidelines/get-started
+	video (1) - /search/docs/advanced/sitemaps/video-sitemaps
+	image (1) - /search/docs/advanced/sitemaps/image-sitemaps
+	Creative Commons Attribution 4.0 License (1) - https://creativecommons.org/licenses/by/4.0/
+	Apache 2.0 License (1) - https://www.apache.org/licenses/LICENSE-2.0
+	Google Developers Site Policies (1) - https://developers.google.com/site-policies
+	Post in our help community (1) - //support.google.com/webmasters/community
+	Join SEO office hours (1) - /search/events/join-office-hours
+	Help documentation (1) - /search/help
+	Blog (1) - /search/blog
+	Twitter (1) - //twitter.com/googlesearchc
+	YouTube (1) - //youtube.com/channel/UCWf2ZlNsCGDS89VBF_awNvA
+	Do you need an SEO? (1) - /search/docs/beginner/do-i-need-seo
+	SEO Starter Guide (1) - /search/docs/beginner/seo-starter-guide
+	Search Console documentation (1) - //support.google.com/webmasters
+	Case Studies (1) - /search/case-studies/overview
+	Search Console (1) - //search.google.com/search-console
+	Mobile-Friendly Test (1) - //search.google.com/test/mobile-friendly
+	Rich Results Test (1) - //search.google.com/test/rich-results
+	PageSpeed Insights (1) - //developers.google.com/speed/pagespeed/insights
+	AMP Test (1) - //search.google.com/test/amp
+	Android (1) - //developer.android.com
+	Chrome (1) - //developer.chrome.com/home
+	Firebase (1) - //firebase.google.com
+	Google Cloud Platform (1) - //cloud.google.com
+	All products (1) - /products
+	Terms (1) - /terms/site-terms
+	Privacy (1) - //policies.google.com/privacy
+	Subscribe (1) - //services.google.com/fb/forms/googledevelopersnewsletter/?utm_medium=referral&utm_source=google-products&utm_team=googledevs&utm_campaign=201611-newsletter-launch
+Search Console (0) - https://support.google.com/webmasters/answer/9128668?hl=en
+	Search Console Help (1) - /webmasters
+	Account (1) - https://myaccount.google.com/?utm_source=OGB&tab=uk&utm_medium=app
+	Search (1) - https://www.google.com.br/webhp?tab=uw
+	Maps (1) - https://maps.google.com.br/maps?hl=en&tab=ul
+	YouTube (1) - https://www.youtube.com/?gl=BR&tab=u1
+	Play (1) - https://play.google.com/?hl=en&tab=u8
+	News (1) - https://news.google.com/?tab=un
+	Gmail (1) - https://mail.google.com/mail/?tab=um
+	Meet (1) - https://meet.google.com/?hs=197
+	Contacts (1) - https://contacts.google.com/?hl=en&tab=uC
+	Drive (1) - https://drive.google.com/?tab=uo
+	Calendar (1) - https://calendar.google.com/calendar?tab=uc
+	Translate (1) - https://translate.google.com.br/?hl=en&tab=uT
+	Photos (1) - https://photos.google.com/?tab=uq&pageId=none
+	Duo (1) - https://duo.google.com/?usp=duo_ald
+	Chrome (1) - https://www.google.com/chrome/?brand=CHZO&utm_source=google.com&utm_medium=desktop-app-launcher&utm_campaign=desktop-app-launcher&utm_content=chrome-logo&utm_keyword=CHZO
+	Shopping (1) - https://www.google.com.br/shopping?hl=en&source=og&tab=uf
+	Docs (1) - https://docs.google.com/document/?usp=docs_alc
+	Sheets (1) - https://docs.google.com/spreadsheets/?usp=sheets_alc
+	Slides (1) - https://docs.google.com/presentation/?usp=slides_alc
+	Books (1) - https://books.google.com.br/?hl=en&tab=up
+	Blogger (1) - https://www.blogger.com/?tab=uj
+	Hangouts (1) - https://hangouts.google.com/
+	Keep (1) - https://keep.google.com/
+	Jamboard (1) - https://jamboard.google.com/?usp=jam_ald
+	Earth (1) - https://earth.google.com/web/
+	Collections (1) - https://www.google.com.br/save
+	Arts and Culture (1) - https://artsandculture.google.com/?hl=en&utm_source=ogs.google.com&utm_medium=referral
+	Google Ads (1) - https://ads.google.com/home/?subid=ww-ww-et-g-aw-a-vasquette_ads_cons_1!o2
+	Podcasts (1) - https://podcasts.google.com/
+	Travel (1) - https://www.google.com/travel/?dest_src=al
+	Forms (1) - https://docs.google.com/forms/?usp=forms_alc
+	More from Google (1) - https://www.google.com.br/intl/en/about/products?tab=uh
+	Sign in (1) - https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=http://support.google.com/webmasters/answer/9128668%3Fhl%3Den&ec=GAZAdQ
+	Google Help (1) - /
+	Help Center (1) - /webmasters/?hl=en
+	Community (1) - /webmasters/community?hl=en
+	Search Console (1) - //search.google.com/search-console
+	Privacy Policy (1) - //www.google.com/intl/en/privacy.html
+	Terms of Service (1) - https://www.google.com/accounts/TOS
+	Submit feedback (1) - #
+	Help Center (1) - /webmasters/?hl=en
+	Community (1) - /webmasters/community?hl=en
+	Search Console (1) - //search.google.com/search-console
+	Intro to Google Search Console - Search Console Training (1) - //www.youtube.com/watch?v=ONr5Z7VhNFI
+	Chrome (1) - http://www.google.com/chrome
+	Firefox (1) - http://www.mozilla.com/en-US/firefox
+	Edge (1) - https://www.microsoft.com/windows/microsoft-edge
+	Safari (1) - http://www.apple.com/safari/download
+	Google account (1) - /accounts/answer/27441
+	NEXT: GET STARTED WITH SEARCH CONSOLE (1) - /webmasters/answer/9128669
+	Help (1) - /webmasters/?hl=en#topic=9128571
+	About Search Console (1) - #
+	Get started with Search Console (1) - /webmasters/answer/9128669?hl=en&ref_topic=9128571
+	Add a website property (1) - /webmasters/answer/34592?hl=en&ref_topic=9128571
+	Important concepts (1) - /webmasters/topic/9459871?hl=en&ref_topic=9128571
+	New to Search Console? (1) - /webmasters/answer/9128669?hl=en
+	Privacy Policy (1) - //www.google.com/intl/en/privacy.html
+	Terms of Service (1) - https://www.google.com/accounts/TOS
+request a recrawl (0) - https://support.google.com/webmasters/answer/6065812?hl=en
