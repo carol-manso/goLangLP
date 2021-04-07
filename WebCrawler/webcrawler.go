@@ -21,28 +21,28 @@ type HttpError struct {
 	original string
 }
 
-func (self Link) String() string {
-	spacer := strings.Repeat("\t", self.depth)
-	return fmt.Sprintf("%s%s (%d) - %s", spacer, self.text, self.depth, self.url)
+func (object Link) String() string {
+	spacer := strings.Repeat("\t", object.depth)
+	return fmt.Sprintf("%s%s (%d) - %s", spacer, object.text, object.depth, object.url)
 }
 
-func (self Link) Valid() bool {
-	if self.depth >= MaxDepth {
+func (object Link) Valid() bool {
+	if object.depth >= MaxDepth {
 		return false
 	}
 
-	if len(self.text) == 0 {
+	if len(object.text) == 0 {
 		return false
 	}
-	if len(self.url) == 0 || strings.Contains(strings.ToLower(self.url), "javascript") {
+	if len(object.url) == 0 || strings.Contains(strings.ToLower(object.url), "javascript") {
 		return false
 	}
 
 	return true
 }
 
-func (self HttpError) Error() string {
-	return self.original
+func (object HttpError) Error() string {
+	return object.original
 }
 
 var MaxDepth = 2
