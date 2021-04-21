@@ -11,8 +11,8 @@ import (
 
 func main() {
 	
-	//fmtEscrita()
-	fmtLeitura()
+	fmtEscrita()
+	//fmtLeitura()
 	
 	
 }
@@ -24,6 +24,7 @@ func fmtEscrita() {
 
 	fmt.Println(x)
 	fmt.Println(y)
+	fmt.Printf("Olaa %v\n","Bom dia!")
 	x = "oi"
 	y = "bom dia"
 	fmt.Print(x)               //não tem uma linha nova
