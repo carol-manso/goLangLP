@@ -5,7 +5,9 @@ import "fmt"
 
 
 func exemplo(c chan string){
+	
 	defer close(c)
+
 	strs:=[3]string{"limao","banana","maçã"}
 
 	for _,i := range strs{
