@@ -2,14 +2,17 @@ package main
 
 import "fmt"
 
-//Result exported
-
+//Necessário primeira letra maiúscula para exportar do arquivo
 type Result struct {
-	typeOf 		string
-	title    	string
+	typeOf      string
+	title       string
 	description string
 }
 
 func (r Result) String() string {
-	return fmt.Sprint("[Type: ",r.typeOf, " - Title: ", r.title, " -Description: ", r.description," ]\n")
+
+	return fmt.Sprint("\nType: ", 
+						r.typeOf, " -\nTitle: ", r.title, " -\nDescription:\n", r.description, 
+					  "\n----------------------------------------------- \n")
+
 }
