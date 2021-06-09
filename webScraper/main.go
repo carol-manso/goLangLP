@@ -17,16 +17,15 @@ func main() {
 
 	ini := time.Now()
 
-	for _,url := range urlToProcess {
+	for _, url := range urlToProcess {
 
 		r := scrap(url)
 		fmt.Println(r)
 
 	}
-
-	
-	fmt.Println("==========================\n(Took ", 
-				time.Since(ini).Seconds(), "secs)\n==========================")
+	tempo1 := time.Since(ini).Seconds()
+	fmt.Println("==========================\n(Took ",
+		tempo1, "secs)\n==========================")
 	fmt.Println()
 
 	ini = time.Now()
@@ -41,8 +40,10 @@ func main() {
 	for url := range r {
 		fmt.Println(url)
 	}
+	tempo2 := time.Since(ini).Seconds()
+	fmt.Println("==========================\n(Took ",
+		tempo2, "secs)\n==========================")
 
-	fmt.Println("==========================\n(Took ", 
-				time.Since(ini).Seconds(), "secs)\n==========================")
-
+	speedup := tempo1 / tempo2
+	fmt.Println("Speed Up:", speedup)
 }
